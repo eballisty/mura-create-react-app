@@ -1,4 +1,4 @@
-# Configure Standalone 
+# Configure Standalone
 
 ### install mura js
 ```
@@ -41,11 +41,11 @@ import Car from './components/Car';
 
 ### add proxy
 ```
-	"proxy": {  
+"proxy": {  
 	"/core": {  
 		"target": "http://dream-cars.local.blueriver.com",  
 		"changeOrigin": false  
-	}
+}
 ```
 
 ### add Mura JS to index.html
