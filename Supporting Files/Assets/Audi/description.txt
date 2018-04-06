@@ -1,0 +1,12 @@
+<p><strong>Specs overview</strong></p>
+
+<ul>
+	<li>Engine. Six-cylinder.</li>
+	<li>Horsepower. 340 @ 5,300 - 6,500.</li>
+	<li>Torque (lb-ft @ rpm) 325 @ 2,900 - 5,300.</li>
+	<li>Top Speed. 130 mph&nbsp;<sup>9</sup></li>
+	<li>Transmission. Eight-speed Tiptronic&reg; automatic transmission with quattro&reg; all-wheel drive.</li>
+	<li>Acceleration (0&mdash;60 mph) 5.2 seconds.</li>
+	<li>Valvetrain. 24-valve DOHC with variable valve timing.</li>
+	<li>Combined mpg.</li>
+</ul>

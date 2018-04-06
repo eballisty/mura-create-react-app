@@ -1,0 +1,24 @@
+{
+  "name": "dream-cars-react",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "material-ui": "^1.0.0-beta.40",
+    "mura.js": "^1.0.51",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "proxy": {
+    "/core": {
+      "target": "http://dream-cars.local.blueriver.com",
+      "changeOrigin": false
+    }
+  }
+}
